@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function initializeVisitorCounter() {
     let totalVisitors = localStorage.getItem('totalVisitorCount');
     if (!totalVisitors) {
-      totalVisitors = "i don't even know twin";
+      totalVisitors = "87";
       localStorage.setItem('totalVisitorCount', totalVisitors);
     } else {
       totalVisitors = parseInt(totalVisitors);
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
