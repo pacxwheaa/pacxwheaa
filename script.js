@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Naber kanki",
-    "\"Begendin mi?!\""
+    "Bö!!!",
+    "Begendin mi?"
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -670,3 +670,4 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
