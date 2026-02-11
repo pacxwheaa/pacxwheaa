@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click here to see the motion baby ;)";
+  const startMessage = "Click here to see the motion babe ;)";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -670,4 +670,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
